@@ -1,0 +1,2 @@
+This is a Local Demo of a zero trust honey pot which uses MFA for authorised users and logs and blocks the dummy credentials - One was the Kali Linux attacker (See pictures). 
+The IP is stored in honeypot.txt
