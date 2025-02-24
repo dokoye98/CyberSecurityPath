@@ -1,0 +1,10 @@
+hacker123:password123
+admin:letmein
+testuser:12345678
+guest:guest123
+unknown:iloveyou
+root:root123
+sysadmin:welcome1
+tempuser:temp123
+fakeaccount:abcdefg
+botnet:infected
