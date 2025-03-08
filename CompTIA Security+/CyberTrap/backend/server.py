@@ -14,7 +14,7 @@ telnet_honeypot_script = os.path.abspath(os.path.join(os.path.dirname(__file__),
 def start_ssh_honeypot():
     
     print("Starting Telnet Honeypot...")
-    subprocess.Popen(["python", ssh_honeypot_script])
+    subprocess.Popen(["python", telnet_honeypot_script])
    
 
 @app.on_event("startup")
